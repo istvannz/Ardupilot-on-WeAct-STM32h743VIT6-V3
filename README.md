@@ -107,7 +107,7 @@ ESCs run from a separate LiPo battery. Only PWM signal wires (PE9/11/13/14) and 
 
 ## Prerequisites
 
-- Ubuntu 22.04 or later (or WSL2)
+- Ubuntu 24.04 or later (or WSL2)
 - `arm-none-eabi-gcc` 13.2.1
 - `dfu-util`
 - Python 3 with `pymavlink` installed
